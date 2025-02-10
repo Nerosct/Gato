@@ -29,8 +29,8 @@ O objetivo do jogo é coletar 20 ratos, desviar dos inimigos, a cada dois ratos 
 
 #### Screenshots:
 
-![alt text](/Gato/Screenshots/image.png)
-![](/Gato/Screenshots/Jogo.png)
-![](/Gato/Screenshots/Tela_Morte.png)
+![alt text](https://github.com/Nerosct/Gato/blob/main/Screenshots/Tela_Menu.png)
+![](https://github.com/Nerosct/Gato/blob/main/Screenshots/Jogo.png)
+![](https://github.com/Nerosct/Gato/blob/main/Screenshots/Tela_Morte.png)
 
 ##### Obrigado Pela Atenção :)
